@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Trung</h1>
 <h3 align="center">
-  I am a developer from HUFLIT – a university specialized in Information Technology and Foreign Languages.<br/>
+  I am a developer from FPT – a university specialized in Information Technology and Foreign Languages.<br/>
   I'm currently on my journey to become a full-stack developer.<br/>
   Everyone has to start somewhere, and this is where my journey begins.
 </h3>
